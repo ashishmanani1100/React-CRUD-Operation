@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "457c8270-2753-11ed-857e-21038be7b7b8",
+      "name": "Demo1",
+      "username": "Demo@123",
+      "email": "demo@gmail.com",
+      "phone": "98524562",
+      "gender": "Male",
+      "website": "https://demo.com",
+      "company": "demo123"
+    },
+    {
+      "id": "308bc210-2f53-11ed-b1e8-79cdac4d7a53",
+      "name": "Ashish",
+      "username": "amanani",
+      "email": "ashish@gmail.com",
+      "phone": "7777777777",
+      "gender": "Male",
+      "website": "https://www.xyz.com",
+      "company": "xyz"
+    }
+  ]
+}
